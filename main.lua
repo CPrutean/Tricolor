@@ -20,7 +20,7 @@ SMODS.Joker{
         text = {
             "Playing a hand",
             "Containing 3 suits",
-            "Gives {X:mult, C:white} X3 {} Mult"
+            "Gives {X:mult,C:white} X3 {} Mult"
         }
     },
     config = {extra = {x_mult = 3}},
